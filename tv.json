@@ -1,58 +1,172 @@
 {
   "tv": [
-	{
+	  	{
 		"id": 1,
+		"name": "SCTV",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581960744~acl=/hls-p/ingest_204_*/*~hmac=788427cbe8fc62b7e41364114ba97062273304e7dc70a47ac43cd005b36b3ea7/hls-p/ingest_204_240p/index.m3u8",
+		"thumbnail": "https://cdn-production-thumbor-vidio.akamaized.net/yr-0Glm5u84D4F6q7rNErnVEsIs=/744x422/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/204/sctv-4355a3.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Indosiar",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581962994~acl=/hls-p/ingest_205_*/*~hmac=b42cd13d2bce51d886278009124355897068eeea0abc8d0a8ad81de7ca305a22/hls-p/ingest_205_480p/index.m3u8",
+		"thumbnail": "https://cdn-production-thumbor-vidio.akamaized.net/deeuH8aEFvq9vLgC9yiC7rYOdx8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/205/indosiar-8222b4.jpg"
+	},
+	{
+		"id": 3,
+		"name": "O Channel TV",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581963070~acl=/hls-p/ingest_206_*/*~hmac=778b2a0fe5ee19f384c803d054cb9401460bf860e3b0536c1b2c0b9df880fbf5/hls-p/ingest_206_240p/index.m3u8",
+		"thumbnail": "https://cdn-production-thumbor-vidio.akamaized.net/c9cUYgEVFTAbyA1ltNA7KK90uAA=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/ochannel-fd9040.jpg"
+	},
+	{
+		"id": 4,
+		"name": "KOMPAS TV",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581963131~acl=/hls-p/ingest_874_*/*~hmac=5e04e8905e121091f13340b5c609617904f2a896318013bdba06611a526033ce/hls-p/ingest_874_480p/index.m3u8",
+		"thumbnail": "https://lh3.googleusercontent.com/qYIaxubHsHU3c-6ModMJl74urcNUSh0EgO_So76qCIgizCKnUNX5hT_zDse53_sPXfZz8A"
+	},
+	{
+		"id": 5,
+		"name": "TRANS TV",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581963378~acl=/hls-p/ingest_733_*/*~hmac=d6df89b5c60b1a5f55d03c9ee4c410c50ba6af2940df3ce61c6dd40788c3ea4f/hls-p/ingest_733_480p/index.m3u8",
+		"thumbnail": "https://cdn-production-thumbor-vidio.akamaized.net/R6PID3GRoGNE4JIq9fjfNCQTYmo=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/733/trans-tv-stream-7ab79a.jpg"
+	},
+	{
+		"id": 6,
+		"name": "RCTI",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581963449~acl=/hls-p/ingest_665_*/*~hmac=716f4202e2872a23db7b2cd6bfbe5f78be289ab90a8a31830b1af04519ca8d46/hls-p/ingest_665_480p/index.m3u8",
+		"https://cdn-production-thumbor-vidio.akamaized.net/KQVmvZlGolCgOATiH13nww_hX1I=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/665/rcti-8458c0.jpg"
+	},
+	{
+		"id": 7,
+		"name": "Trans 7",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581963493~acl=/hls-p/ingest_734_*/*~hmac=c8f72dd834c64231b7b6168884fab006cf1d808b380d375df5702fc256101a3a/hls-p/ingest_734_480p/index.m3u8",
+		"thumbnail": "https://cdn-production-thumbor-vidio.akamaized.net/hfSgVb256JvcaGDLMm5wI0Qj1NI=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/734/trans7-tv-stream-b793ab.jpg"
+	},
+	{
+		"id": 8,
+		"name": "MNC TV",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581963545~acl=/hls-p/ingest_870_*/*~hmac=df7d80585cb88f8e1c3d12c63837c9a2f24a1fe66f4ecd9de1318a9c730b75b0/hls-p/ingest_870_480p/index.m3u8",
+		"thumbnail": "https://cdn-production-thumbor-vidio.akamaized.net/NZy4IEZXngGp5YlqpIQOWM3pH1U=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/870/mnc-tv-stream-f8ee1c.jpg"
+	},
+	{
+		"id": 9,
+		"name": "JAKTV",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581963590~acl=/hls-p/ingest_5415_*/*~hmac=f04e63e159b2aae00ce49df8117b3e3ec0a6d313bf496d2613c52d85e9bb02ee/hls-p/ingest_5415_480p/index.m3u8",
+		"thumbnail": "https://cdn-production-thumbor-vidio.akamaized.net/HnG0r6HJCt6xwwvDhLnXppgzKmg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/5415/jaktv-tv-stream-a705ed.jpg"
+    },
+	{
+		"id": 10,
+		"name": "GTV",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581963741~acl=/hls-p/ingest_778_*/*~hmac=da3213be9a39cbb8a795468e4a7287b76fb23b2c5cf47dd53fc62a4602adad60/hls-p/ingest_778_480p/index.m3u8",
+		"thumbnail": "https://cdn-production-thumbor-vidio.akamaized.net/YR-pUEut4i7WADsTuUTe3XIfnu8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/778/global-tv-stream-1aea79.jpg"
+    },
+	{
+		"id": 11,
+		"name": "NET TV",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581963799~acl=/hls-p/ingest_875_*/*~hmac=53419ed9d86bef814257b089481937f768631bf4f9bb121688df8456936bb4ee/hls-p/ingest_875_480p/index.m3u8",
+		"thumbnail": "https://cdn-production-thumbor-vidio.akamaized.net/bXwNElZHHM2uvwHO23kXVFETxbE=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/875/net-tv-b8499f.jpg"
+    },
+	{
+		"id": 12,
+		"name": "RTV",
+		"stream_url": "https://etslive-2-vidio-com.akamaized.net/exp=1581963866~acl=/hls-p/ingest_geo_1561_*/*~hmac=d5c7624d5548b49aa493a9c227fc16b2aaa6d51224a5730c967964bf349c5049/hls-p/ingest_geo_1561_360p/index.m3u8",
+		"thumbnail": "https://cdn-production-thumbor-vidio.akamaized.net/jZKlBJan7aUwou-SkFXSfCFI12k=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/1561/rtv-stream-06c6dc.jpg"
+    },
+	{
+		"id": 13,
 		"name": "Rodja TV",
 		"stream_url": "http://vids.rodja.tv:1935/live/rodja/playlist.m3u8",
 		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/rodjatv.png"
 	},
 	{
-		"id": 2,
+		"id": 14,
 		"name": "Wesal TV",
 		"stream_url": "http://119.235.249.60:1935/wesaltv/live/playlist.m3u8",
 		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/wesaltv.png"
 	},
 	{
-		"id": 3,
+		"id": 15,
 		"name": "Ahsan TV",
 		"stream_url": "http://119.82.224.75:1935/live/ahsantv/playlist.m3u8",
 		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/ahsantv.png"
 	},
 	{
-		"id": 4,
+		"id": 16,
 		"name": "Salam TV",
 		"stream_url": "http://119.235.249.60:1935/salamtv/live/playlist.m3u8",
 		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/salamtv.png"
 	},
 	{
-		"id": 5,
+		"id": 17,
 		"name": "Niaga TV",
 		"stream_url": "https://5bb648ab35ae7.streamlock.net/niagatv/live/playlist.m3u8",
 		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/niagatv.png"
 	},
 	{
-		"id": 6,
+		"id": 18,
 		"name": "Surau TV",
 		"stream_url": "http://119.235.249.60:1935/surautv/live/playlist.m3u8",
 		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/surautv.png"
 	},
 	{
-		"id": 7,
+		"id": 19,
 		"name": "Insan TV",
 		"stream_url": "http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8",
 		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/insantv.png"
 	},
 	{
-		"id": 8,
+		"id": 20,
 		"name": "Puldapii TV",
 		"stream_url": "http://159.89.206.152/mobile/web.m3u8",
 		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/puldapiitv.png"
 	},
 	{
-		"id": 9,
+		"id": 21,
 		"name": "Ashiil TV",
 		"stream_url": "http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8",
 		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/ashiiltv.png"
-    }
+    	},
+	{
+		"id": 22,
+		"name": "Puldapii TV",
+		"stream_url": "http://159.89.206.152/mobile/web.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/puldapiitv.png"
+	},
+	{
+		"id": 23,
+		"name": "Puldapii TV",
+		"stream_url": "http://159.89.206.152/mobile/web.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/puldapiitv.png"
+	},
+	{
+		"id": 24,
+		"name": "Puldapii TV",
+		"stream_url": "http://159.89.206.152/mobile/web.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/puldapiitv.png"
+	},
+	{
+		"id": 25,
+		"name": "Puldapii TV",
+		"stream_url": "http://159.89.206.152/mobile/web.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/puldapiitv.png"
+	},
+	{
+		"id": 26,
+		"name": "Puldapii TV",
+		"stream_url": "http://159.89.206.152/mobile/web.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/puldapiitv.png"
+	},
+	{
+		"id": 27,
+		"name": "Puldapii TV",
+		"stream_url": "http://159.89.206.152/mobile/web.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/puldapiitv.png"
+	},
+	{
+		"id": 28,
+		"name": "Puldapii TV",
+		"stream_url": "http://159.89.206.152/mobile/web.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/puldapiitv.png"
+	}
 ]
 }
