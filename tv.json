@@ -1,0 +1,58 @@
+{
+  "tv": [
+	{
+		"id": 1,
+		"name": "Rodja TV",
+		"stream_url": "http://vids.rodja.tv:1935/live/rodja/playlist.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/rodjatv.png"
+	},
+	{
+		"id": 2,
+		"name": "Wesal TV",
+		"stream_url": "http://119.235.249.60:1935/wesaltv/live/playlist.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/wesaltv.png"
+	},
+	{
+		"id": 3,
+		"name": "Ahsan TV",
+		"stream_url": "http://119.82.224.75:1935/live/ahsantv/playlist.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/ahsantv.png"
+	},
+	{
+		"id": 4,
+		"name": "Salam TV",
+		"stream_url": "http://119.235.249.60:1935/salamtv/live/playlist.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/salamtv.png"
+	},
+	{
+		"id": 5,
+		"name": "Niaga TV",
+		"stream_url": "https://5bb648ab35ae7.streamlock.net/niagatv/live/playlist.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/niagatv.png"
+	},
+	{
+		"id": 6,
+		"name": "Surau TV",
+		"stream_url": "http://119.235.249.60:1935/surautv/live/playlist.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/surautv.png"
+	},
+	{
+		"id": 7,
+		"name": "Insan TV",
+		"stream_url": "http://wz.insantv.net/group/ngrp:insantv_mobile/playlist.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/insantv.png"
+	},
+	{
+		"id": 8,
+		"name": "Puldapii TV",
+		"stream_url": "http://159.89.206.152/mobile/web.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/puldapiitv.png"
+	},
+	{
+		"id": 9,
+		"name": "Ashiil TV",
+		"stream_url": "http://119.82.232.89:1935/ashiiltv/live2/playlist.m3u8",
+		"thumbnail": "http://razibkani.com/app-resources/Muslimedia/tvimage/ashiiltv.png"
+    }
+]
+}
